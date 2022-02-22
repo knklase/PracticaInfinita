@@ -72,9 +72,9 @@ namespace Formulario
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(511, 43);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(40, 17);
+            this.label3.Size = new System.Drawing.Size(64, 17);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Movil";
+            this.label3.Text = "Telefono";
             // 
             // tNombre
             // 
@@ -92,7 +92,7 @@ namespace Formulario
             // 
             // tTelefono
             // 
-            this.tTelefono.Location = new System.Drawing.Point(557, 38);
+            this.tTelefono.Location = new System.Drawing.Point(581, 40);
             this.tTelefono.Name = "tTelefono";
             this.tTelefono.Size = new System.Drawing.Size(100, 22);
             this.tTelefono.TabIndex = 6;
